@@ -1,0 +1,13 @@
+name = "PressureCoeffs"
+uuid = "b164e8ad-c4ef-40b7-962e-d64fea14245a"
+authors = ["Paulo Jabardo <pjabardo@ipt.br>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.7"
+
+[targets]
+test = ["Test"]
